@@ -1,0 +1,27 @@
+.account-container {
+  min-height: 100vh;
+  background-color: #181818;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.account-heading {
+  font-size: 40px;
+}
+
+.account-text {
+  font-size: 20px;
+}
+
+.logout-button {
+  background-color: #e50914;
+  color: #ffffff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+}

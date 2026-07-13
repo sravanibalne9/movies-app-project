@@ -1,0 +1,19 @@
+.movie-item {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.movie-link {
+  text-decoration: none;
+}
+
+.movie-image {
+  width: 180px;
+  height: 260px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.movie-image:hover {
+  transform: scale(1.05);
+}

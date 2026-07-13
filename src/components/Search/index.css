@@ -1,0 +1,20 @@
+.search-container {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 30px;
+}
+
+.search-input {
+  width: 350px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #666;
+  margin-bottom: 30px;
+}
+
+.search-movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}

@@ -1,0 +1,17 @@
+.popular-container {
+  min-height: 100vh;
+  background-color: #000;
+  padding: 30px;
+}
+
+.popular-heading {
+  color: #fff;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}

@@ -1,0 +1,32 @@
+.home-container {
+  min-height: 100vh;
+  background-color: #000000;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px;
+}
+
+.home-heading {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.home-description {
+  font-size: 20px;
+  width: 500px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.play-button {
+  width: 120px;
+  height: 40px;
+  border: none;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}

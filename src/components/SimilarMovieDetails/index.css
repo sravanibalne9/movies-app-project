@@ -1,0 +1,14 @@
+.similar-container {
+  background-color: #000;
+  padding: 30px;
+}
+
+.similar-heading {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.similar-list {
+  display: flex;
+  flex-wrap: wrap;
+}
