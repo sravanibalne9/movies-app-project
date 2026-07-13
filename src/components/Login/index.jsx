@@ -11,7 +11,7 @@ const Login = () => {
   const onSubmitForm = event => {
     event.preventDefault()
 
-    if (username === 'rahul' && password === 'rahul@2021') {
+    if (username === 'sravani' && password === 'sravani@2026') {
       Cookies.set('jwt_token', 'sample_token', {expires: 30})
       navigate('/')
     } else {
